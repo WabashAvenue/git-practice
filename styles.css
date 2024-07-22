@@ -1,0 +1,15 @@
+.root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  --primary: #0056e0;
+  --secondary: #ebebd3;
+  --accent: #fce762;
+}
+
+.custom-bg {
+  background-color: aqua;
+}
+
+.background-solid {
+  background: var(--primary);
+  height: 200px;
+}
